@@ -1,0 +1,14 @@
+#img2{
+    position: relative;
+}
+
+.myclass{
+    color: brown;
+    font-style: oblique;
+    font-stretch: extra-condensed;
+}
+
+#did{
+    color: darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
